@@ -5,8 +5,8 @@
   />
 </div>
 
-<h1 align="center">Hi👋, I'm M.A. PROHOR</h1>
-<h3 align="center">A Tech, Programing and Electronics Enthusiast</h3>
+<h1 align="center">Hi There👋, I'm M.A. PROHOR</h1>
+<h3 align="center">I'm A Tech, Programing and Electronics/Robotics Enthusiast</h3>
 
 <img align="right" alt="Coding" width="150" src="https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif">
 
