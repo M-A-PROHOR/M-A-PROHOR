@@ -8,7 +8,7 @@
 <h1 align="center">Hi There👋, I'm M.A. PROHOR</h1>
 <h3 align="center">I'm A Tech, Programing and Electronics/Robotics Enthusiast</h3>
 
-<img align="right" alt="Coding" width="150" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707">
+<img align="right" alt="Coding" width="150" src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif">
 
 
 - 🌱 I’m currently learning **Django, React, php, Laravel**
