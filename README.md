@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="<img width="500" height="400" alt="Githubreadme" src="https://github.com/user-attachments/assets/f6b7f1d5-ed55-44a2-a081-4ad3189e89b3" />"
+    src="https://github.com/user-attachments/assets/f6b7f1d5-ed55-44a2-a081-4ad3189e89b3"
     alt="Coding Banner"
   />
 </div>
@@ -8,7 +8,7 @@
 <h1 align="center">Hi There👋, I'm M.A. PROHOR</h1>
 <h3 align="center">I'm A Tech, Programing and Electronics/Robotics Enthusiast</h3>
 
-<img align="right" alt="Coding" width="150" src="<img width="640" height="640" alt="tenor" src="https://github.com/user-attachments/assets/5c54191a-26e7-4702-bdbe-4603b0f36660" />">
+<img align="right" alt="Coding" width="150" src="https://github.com/user-attachments/assets/5c54191a-26e7-4702-bdbe-4603b0f36660">
 
 
 - 🌱 I’m currently learning **Django, React, php, Laravel**
